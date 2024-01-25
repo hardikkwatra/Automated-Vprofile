@@ -10,14 +10,23 @@ INTRODUCTION: DevOpsForge displays streamlined development with Oracle VM Virtua
 STEPS:
 
 1.Amazon: This section shows that Amazon Web Services (AWS) is being used to host the web application.
+
 2.Route 53: This is a Domain Name System (DNS) service offered by AWS that routes traffic to the web application.
+
 3.CloudWatch: This is a monitoring service offered by AWS that provides insights into the performance of the web application.
+
 4.Artifacts in Bucket: This section refers to the Amazon Simple Storage Service (S3) bucket where the web application’s code and other assets are stored.
+
 5.Application Load Balancer: This distributes traffic among multiple instances of the web application.
+
 6.Auto Scaling: This automatically scales the number of instances of the web application up or down based on demand.
+
 7.Elastic Beanstalk: This is a Platform as a Service (PaaS) offering from AWS that simplifies the deployment and management of web applications.
+
 8.Visualpath: This is a network monitoring tool that provides insights into the performance of the network that the web application is running on.
+
 9.Amazon MQ: This is a message queueing service offered by AWS that enables asynchronous communication between different parts of the web application.
+
 10.MySQL and Memcached: These are database management systems that are used to store data for the web application. MySQL is a relational database management system, while Memcached is a key-value store.
 ![AWS Automated](https://github.com/hardikkwatra/Automated-Vprofile/assets/78718601/a0e8892f-b86b-47a3-b3fa-0073dfe4c988)
 ![Automating System Idea](https://github.com/hardikkwatra/Automated-Vprofile/assets/78718601/77c127a8-0b73-418b-bfa6-968c418e1e4c)
